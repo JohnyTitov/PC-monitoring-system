@@ -527,7 +527,6 @@ namespace Agent
             string ThisUser = Environment.UserName;
             string Path = "C:\\Users\\" + ThisUser + "\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles";
             Path = SearshDataBase(Path);        // получаем путь к базе
-
             SQLiteConnection m_dbConn = new SQLiteConnection("Data Source=" + Path + ";Version=3;");
             m_dbConn.Open();
             SQLiteCommand cmd = new SQLiteCommand();

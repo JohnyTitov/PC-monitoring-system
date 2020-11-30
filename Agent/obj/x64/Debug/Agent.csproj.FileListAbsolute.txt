@@ -1,0 +1,10 @@
+D:\project\PC-monitoring-system\Agent\bin\x64\Debug\Agent.exe.config
+D:\project\PC-monitoring-system\Agent\bin\x64\Debug\Agent.exe
+D:\project\PC-monitoring-system\Agent\bin\x64\Debug\Agent.pdb
+D:\project\PC-monitoring-system\Agent\bin\x64\Debug\Newtonsoft.Json.dll
+D:\project\PC-monitoring-system\Agent\bin\x64\Debug\System.Data.SQLite.dll
+D:\project\PC-monitoring-system\Agent\obj\x64\Debug\Agent.csprojAssemblyReference.cache
+D:\project\PC-monitoring-system\Agent\obj\x64\Debug\Agent.csproj.CoreCompileInputs.cache
+D:\project\PC-monitoring-system\Agent\obj\x64\Debug\Agent.csproj.CopyComplete
+D:\project\PC-monitoring-system\Agent\obj\x64\Debug\Agent.exe
+D:\project\PC-monitoring-system\Agent\obj\x64\Debug\Agent.pdb
