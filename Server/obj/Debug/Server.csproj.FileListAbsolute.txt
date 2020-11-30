@@ -1,0 +1,11 @@
+D:\project\PC-monitoring-system\Server\bin\Debug\Server.exe.config
+D:\project\PC-monitoring-system\Server\bin\Debug\Server.exe
+D:\project\PC-monitoring-system\Server\bin\Debug\Server.pdb
+D:\project\PC-monitoring-system\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\project\PC-monitoring-system\Server\obj\Debug\Server.Form1.resources
+D:\project\PC-monitoring-system\Server\obj\Debug\Server.Properties.Resources.resources
+D:\project\PC-monitoring-system\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\project\PC-monitoring-system\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\project\PC-monitoring-system\Server\obj\Debug\Server.exe
+D:\project\PC-monitoring-system\Server\obj\Debug\Server.pdb
+D:\project\PC-monitoring-system\Server\obj\Debug\Server.csproj.CopyComplete
